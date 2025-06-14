@@ -6,9 +6,7 @@ Bienvenue sur le dépôt officiel de mon **Resource Pack Minecraft personnalisé
 
 Ce Resource Pack modifie les éléments suivants dans Minecraft :
 
-- 🎵 **Sons et musiques** : Remplacement complet ou modification des sons d’ambiance, musiques de fond, bruits de mobs, etc.
-- 🎨 **Textures** : [optionnel – à préciser si tu modifies les textures] 
-- 🎮 **Interface (GUI)** : [optionnel – si tu modifies les barres de vie, menus, etc.]
+- 🎨 **Textures** : Les textures de certaines Waystones 
 
 Version compatible : **Minecraft [version ex: 1.21.5]**
 
@@ -18,10 +16,7 @@ Version compatible : **Minecraft [version ex: 1.21.5]**
 
 | Élément | Modification | Remarques |
 |--------|-------------|-----------|
-| Bruits de pas | Nouveaux sons réalistes | Inspirés de vrais enregistrements |
-| Musique du menu | Changement complet | Musique personnalisée |
-| Sons de mobs | Sons retravaillés | Plus sombres et immersifs |
-| [Autre exemple] | [Description] | [Remarque] |
+| Andesite Waystone | Rayon bleu au centre | Plus propre|
 
 ---
 
